@@ -28,6 +28,8 @@ code {
     monospace;
 }
 
+
+
 ul {
   list-style-type: none;
 }
@@ -53,6 +55,7 @@ h2 {
 .container {
   max-width: 1240px;
   margin: auto;
+  height: 100%;
 }
 
 

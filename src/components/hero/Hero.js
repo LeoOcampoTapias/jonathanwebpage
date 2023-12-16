@@ -6,10 +6,10 @@ const Hero = () => {
     <div className='hero'>
       <div className="container">
         <div className="content">
-            <h1>Data</h1>
-            <h1 className='blue'>Secured</h1>
-            <h1>Protection</h1>
-            <div><button>Learn More</button></div>
+            <h1>Ayuda en crisis</h1>
+            <h1 className='blue'>Estimulacion temprana</h1>
+            <h1>Desarrollo Personal</h1>
+            <div><button>Aprender mas!</button></div>
         </div>
       </div>
     </div>
